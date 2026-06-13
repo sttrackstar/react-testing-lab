@@ -7,17 +7,17 @@ import { beforeEach } from "vitest";
 const mockTransactions = [
   {
     id: 1,
-    date: "2023-01-01",
+    date: "2026-06-01",
     description: "Coffee",
     category: "Food",
-    amount: "3.50",
+    amount: "7.50",
   },
   {
     id: 2,
-    date: "2023-01-02",
+    date: "2026-06-02",
     description: "Groceries",
     category: "Food",
-    amount: "42.00",
+    amount: "152.00",
   },
 ];
 

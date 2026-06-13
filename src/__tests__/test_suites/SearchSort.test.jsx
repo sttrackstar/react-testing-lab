@@ -6,24 +6,24 @@ import { vi } from "vitest";
 const mockTransactions = [
   {
     id: 1,
-    date: "2023-01-01",
+    date: "2026-06-01",
     description: "Coffee",
     category: "Food",
-    amount: "3.50",
+    amount: "7.50",
   },
   {
     id: 2,
-    date: "2023-01-02",
+    date: "2026-06-02",
     description: "Groceries",
     category: "Food",
-    amount: "42.00",
+    amount: "160.00",
   },
   {
     id: 3,
-    date: "2023-01-03",
+    date: "2026-06-03",
     description: "Books",
     category: "Education",
-    amount: "15.00",
+    amount: "105.00",
   },
 ];
 

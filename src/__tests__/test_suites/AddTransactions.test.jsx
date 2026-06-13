@@ -37,7 +37,7 @@ describe("Add Transactions", () => {
       target: { value: "10.00" },
     });
     fireEvent.change(screen.getByLabelText("Date"), {
-      target: { value: "2023-01-01" },
+      target: { value: "2026-06-01" },
     });
 
     fireEvent.click(screen.getByText("Add Transaction"));
